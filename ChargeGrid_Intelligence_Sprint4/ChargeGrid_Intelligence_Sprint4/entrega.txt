@@ -1,0 +1,17 @@
+FIAP — Ciência da Computação — 2026.2
+EV CHALLENGE — GOODWE — SPRINT 04
+Disciplina: Prompt and Artificial Intelligence
+Professor: Jorge Luiz Gomes
+
+REPOSITÓRIO
+https://github.com/gabrielr020660-crypto/Sprint4_IA
+
+INTEGRANTES:
+* Gustavo Guedes Pereira — RM 569779
+* Lucas Angelo — RM 569530
+* Gustavo de Souza — RM 570746
+* Arthur Tae — RM 570647
+* Gabriel Rodrigues — RM 569322
+* Murillo Boyadjian - RM 570774
+
+TURMA: 1CCPJ
